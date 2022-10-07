@@ -11,5 +11,11 @@ public class App {
         System.out.printf("2+2 " + calculator.sum(2, 2));
 
         System.out.println("=======");
+        
+        System.out.println("Вычитание");
+
+        System.out.printf("2-2 " + calculator.substract(2, 2));
+
+        System.out.println("=======");
     }
 }
